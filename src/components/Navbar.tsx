@@ -37,7 +37,7 @@ export default function Navbar() {
               </div>
             </div>
             <span className="text-xl font-serif font-bold text-secondary-900 dark:text-white tracking-tight">
-              StoryBlog
+              InkWell
               <span className="hidden sm:inline text-primary-600 dark:text-primary-400">.</span>
             </span>
           </Link>
